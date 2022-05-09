@@ -21,10 +21,10 @@ export default function Hero() {
                             I&apos;m a full-stack software developer with experience building digital products with technologies such as C# .NET, JavaScript, Python and more.
                             I&apos;m currently focused on building accessible, human-centered products at one of Australia&apos;s largest investment funds, serving 2+ million customers.
                         </p>
-                        <a href="https://blog.joshanthony.net" className="inline-flex items-center h-14 px-8 mt-9 text-xl transition-colors duration-150 border border-blue-600 rounded-lg focus:shadow-outline bg-blue-600 text-slate-300 hover:text-slate-200 hover:bg-blue-700">
+                        <a href="https://joshanthony.net" className="inline-flex items-center h-14 px-8 mt-9 text-xl transition-colors duration-150 border border-blue-600 rounded-lg focus:shadow-outline bg-blue-600 text-slate-300 hover:text-slate-200 hover:bg-blue-700">
                             Read my writing
                         </a>
-                        <a href="https://blog.joshanthony.net/contact/" className="inline-flex items-center h-14 px-8 mt-9 ml-3 text-xl transition-colors duration-150 border border-slate-300 hover:border-slate-100 rounded-lg bg-gray-900 text-slate-200 hover:text-slate-200">
+                        <a href="https://joshanthony.net/contact/" className="inline-flex items-center h-14 px-8 mt-9 ml-3 text-xl transition-colors duration-150 border border-slate-300 hover:border-slate-100 rounded-lg bg-gray-900 text-slate-200 hover:text-slate-200">
                             Get in touch
                         </a>
                     </div>

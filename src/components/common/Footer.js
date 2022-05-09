@@ -16,22 +16,22 @@ export default function Footer() {
           </div>
           <div className="lg:flex flex-grow items-center flex order-1 md:order-2">
             <div className="flex flex-row list-none lg:ml-auto mr-auto lg:mr-0 w-full w-auto menu-items">
-              <Link href="https://blog.joshanthony.net/about/">
+              <Link href="https://joshanthony.net/about/">
                 <a className="text-gray-300 hover:bg-gray-700 hover:text-white mx-0 px-3 py-2 rounded-md text-sm font-medium">
                   About
                 </a>
               </Link>
-              <Link href="https://blog.joshanthony.net">
+              <Link href="https://joshanthony.net">
                 <a className="text-gray-300 hover:bg-gray-700 hover:text-white mx-0 px-3 py-2 rounded-md text-sm font-medium">
                   Blog
                 </a>
               </Link>
-              <Link href="https://blog.joshanthony.net/projects/">
+              <Link href="https://joshanthony.net/projects/">
                 <a className="text-gray-300 hover:bg-gray-700 hover:text-white mx-0 px-3 py-2 rounded-md text-sm font-medium">
                   Projects
                 </a>
               </Link>
-              <Link href="https://blog.joshanthony.net/contact/">
+              <Link href="https://joshanthony.net/contact/">
                 <a className="text-gray-300 hover:bg-gray-700 hover:text-white mx-0 px-3 py-2 rounded-md text-sm font-medium">
                   Contact
                 </a>
