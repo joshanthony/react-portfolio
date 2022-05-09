@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full flex justify-left lg:justify-center ml-3 lg:ml-0 lg:justify-between lg:w-auto lg:static lg:block lg:justify-start mt-3 lg:mt-0 order-2 md:order-1">
             <p className="text-white text-sm">
-                Copyright &copy; 2022. Built with React. 
+                Copyright &copy; 2022. Built with React and NextJS. 
               </p>
           </div>
           <div className="lg:flex flex-grow items-center flex order-1 md:order-2">
