@@ -10,7 +10,7 @@ export default function Hero() {
                 <div className="hero-wrapper grid grid-cols-1 md:grid-cols-10 gap-8 items-center">
                     <div className="hero-text col-span-10 lg:col-span-6 order-2 md:order-1">
                         <h1 className="font-bold text-4xl md:text-5xl max-w-2xl text-slate-100 leading-tight">
-                            Hey, I'm Josh Anthony,
+                            Hey, I&apos;m Josh Anthony,
                         </h1>
                         <h2 className="font-bold text-4xl md:text-5xl max-w-2xl text-slate-300 leading-tight">
                             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-blue-600">
@@ -18,8 +18,8 @@ export default function Hero() {
                             </span> from Brisbane, Australia
                         </h2>
                         <p className="text-slate-200 text-2xl leading-relaxed mt-8">
-                            I'm a full-stack developer building exceptional digital experiences using technologies such as C# .NET, JavaScript and more.
-                            I'm currently focused on building accessible, human-centered products at one of the largest investment funds in Australia.
+                            I&apos;m a full-stack developer building exceptional digital experiences using technologies such as C# .NET, JavaScript and more.
+                            I&apos;m currently focused on building accessible, human-centered products at one of the largest investment funds in Australia.
                         </p>
                         <a href="https://blog.joshanthony.net" className="inline-flex items-center h-14 px-8 mt-9 text-xl transition-colors duration-150 border border-blue-600 rounded-lg focus:shadow-outline bg-blue-600 text-slate-300 hover:text-slate-200 hover:bg-blue-700">
                             Read my blog
