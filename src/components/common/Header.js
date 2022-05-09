@@ -11,10 +11,7 @@ export default function Header({ children, ...meta }) {
                 <title>{meta.title}</title>
                 <meta name="robots" content="follow, index" />
                 <meta content={meta.description} name="description" />
-                <link rel="icon" href="../../assets/images/favicon.png" sizes="32x32" />
-                <link rel="icon" href="../../assets/images/favicon.png" sizes="192x192" />
-                <link rel="apple-touch-icon" href="../../assets/images/favicon.png" />
-                <meta name="msapplication-TileImage" content="../../assets/images/favicon.png" />
+                <link rel="shortcut icon" href="../../assets/images/favicon.ico" />
                 <meta property="og:url" content={`https://joshanthony.net${router.asPath}`} />
                 <link rel="canonical" href={`https://joshanthony.net${router.asPath}`} />
                 <meta name="twitter:card" content="summary_large_image" />
