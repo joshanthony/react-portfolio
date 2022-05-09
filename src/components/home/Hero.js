@@ -25,7 +25,7 @@ export default function Hero() {
                             Read my writing
                         </a>
                         <a href="https://joshanthony.net/contact/" className="inline-flex items-center h-14 px-8 mt-9 ml-3 text-xl transition-colors duration-150 border border-slate-300 hover:border-slate-100 rounded-lg bg-gray-900 text-slate-200 hover:text-slate-200">
-                            Get in touch
+                            Contact
                         </a>
                     </div>
                     <div className="text-white col-span-4 pb-9 md:pb-0 order-1 md:order-2 hidden lg:block">
