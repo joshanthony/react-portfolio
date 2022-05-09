@@ -18,8 +18,8 @@ export default function Hero() {
                             </span> from Brisbane, Australia
                         </h2>
                         <p className="text-slate-200 text-xl leading-relaxed mt-8">
-                            I&apos;m a full-stack developer with experience building digital products using technologies such as C# .NET, JavaScript and more.
-                            I&apos;m currently focused on building accessible, human-centered products at one of Australia&apos;s largest investment funds.
+                            I&apos;m a full-stack software developer with experience building digital products using technologies such as C# .NET, JavaScript, Python and more.
+                            I&apos;m currently focused on building accessible, human-centered products at one of Australia&apos;s largest investment funds, serving 2+ million customers.
                         </p>
                         <a href="https://blog.joshanthony.net" className="inline-flex items-center h-14 px-8 mt-9 text-xl transition-colors duration-150 border border-blue-600 rounded-lg focus:shadow-outline bg-blue-600 text-slate-300 hover:text-slate-200 hover:bg-blue-700">
                             Read my blog
