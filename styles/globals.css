@@ -1,16 +1,55 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/inter.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.text-primary {
+  color: #5850ec !important;
 }
 
-* {
-  box-sizing: border-box;
+.btn-primary {
+  background: #5850ec !important;
+  border: none !important;
+  color: #fff !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  box-shadow: none !important;
+  background: #6875f5 !important;
+  color: #fff !important;
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  box-shadow: none !important;
+  background: #6875f5 !important;
+  color: #fff !important;
+}
+
+.btn-light {
+  background: #fff !important;
+  border: none !important;
+  color: #5145cd !important;
+}
+
+.btn-light:hover,
+.btn-light:focus {
+  box-shadow: none !important;
+  background: #f2f2f2 !important;
+  color: #5145cd !important;
+}
+
+.btn-light:active,
+.btn-light.active {
+  box-shadow: none !important;
+  background: #f2f2f2 !important;
+  color: #5145cd !important;
 }
